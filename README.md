@@ -1,4 +1,4 @@
-# TelloDroneProject
+# TelloDrone
 
 This experiment is to use coding control the Tello drone instead of using mobile app
 
